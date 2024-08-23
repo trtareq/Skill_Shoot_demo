@@ -7,6 +7,7 @@ const SKill = () => {
              <img src="https://i.ibb.co/YTDCMz2/image.png" className="max-w-sm rounded-lg" />
             <div>
                <h1 className="text-3xl font-bold">Let us Skill Shoot</h1>
+               <img className=" ms-24 w-36" src="https://i.ibb.co/ryVTWRk/Vector-1.png" alt="" />
               <p className="py-6 text-[#808080]">
               We are a company engaged in education with the aim of <br />improving the skills of many people <br /> and so that younger people can reach the career paths they want.
 
@@ -60,9 +61,9 @@ const SKill = () => {
             </div>
             </div>
         </div>
-        {/* <div className="w-36 absolute left-566 top-28 ">
-        <img src="https://i.ibb.co/ryVTWRk/Vector-1.png" alt="" />
-        </div> */}
+        
+      
+       
       </>
     );
 };
